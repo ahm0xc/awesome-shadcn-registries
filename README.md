@@ -3,7 +3,7 @@
 A curated list of shadcn-compatible registries — places you can point
 `npx shadcn@latest add` at to pull in components, blocks, and themes.
 
-**50 registries**, each verified against its own `r/registry.json` endpoint. Install
+**51 registries**, each verified against its own `r/registry.json` endpoint. Install
 instructions live on each project's site; links go straight there.
 
 ### Legend
@@ -43,6 +43,7 @@ instructions live on each project's site; links go straight there.
 - [ssych ui](https://ssych.com/) · `Pro` — 134 fintech components: order books, candlesticks, market heatmaps, agent runs.
 - [Supabase Library](https://supabase.com/library) — Auth, storage and Realtime components in Next.js, React, React Router and TanStack flavours.
 - [termcn](https://www.termcn.dev/) — shadcn-style components for terminal apps, on Ink and OpenTUI.
+- [Tray UI](https://trayui.com/) — 108 components and 64 blocks over one plain CSS stylesheet, no Tailwind; blocks also as plain HTML.
 - [usva](https://usva.build/) — an opinionated design system: 63 quiet components, 14 loud ones, 3 themes.
 
 ## Blocks, charts & data grids
