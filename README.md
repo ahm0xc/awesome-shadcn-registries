@@ -3,7 +3,7 @@
 A curated list of shadcn-compatible registries — places you can point
 `npx shadcn@latest add` at to pull in components, blocks, and themes.
 
-**51 registries**, each verified against its own `r/registry.json` endpoint. Install
+**52 registries**, each verified against its own `r/registry.json` endpoint. Install
 instructions live on each project's site; links go straight there.
 
 ### Legend
@@ -61,6 +61,7 @@ instructions live on each project's site; links go straight there.
 - [8bitcn/ui](https://www.8bitcn.com/) — the whole shadcn catalogue in pixel-art 8-bit, plus game interfaces.
 - [Bevel](https://bevel-ui.vercel.app/) — 50 skeuomorphic controls, each modelled on a real patented object.
 - [LiquiKit](https://liquikit.dev/) — liquid glass controls with physically based refraction.
+- [Liquid Glass](https://liquidglass.onemorethink.dev/) — 14 controls drawn in WebGL2 by one shared renderer, with a plain CSS fallback.
 - [nostalgia-ui](https://www.nostalgia-ui.com/) — Mac OS 9 components in pure CSS, zero image assets.
 - [PlopUI](https://plopui.com/) — hand-drawn components: wobbly sticker buttons, washi-tape tags and a hand-lettered font, still WCAG AA.
 - [The Gridcn](https://thegridcn.com/) — Tron theme system with HUD components and Three.js effects.
